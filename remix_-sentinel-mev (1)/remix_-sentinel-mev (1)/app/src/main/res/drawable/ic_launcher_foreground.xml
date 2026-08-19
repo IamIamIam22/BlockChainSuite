@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Shadow -->
+    <path
+        android:fillColor="#30000000"
+        android:pathData="M 54,22 L 78,32 L 78,58 C 78,75.2 67.8,87.6 54,92 C 40.2,87.6 30,75.2 30,58 L 30,32 L 54,22 Z" />
+
+    <!-- Main Shield Outer Body (Golden Accent) -->
+    <path
+        android:fillColor="#F1C40F"
+        android:pathData="M 54,20 L 76,30 L 76,56 C 76,73.2 65.8,85.6 54,90 C 42.2,85.6 32,73.2 32,56 L 32,30 L 54,20 Z" />
+
+    <!-- Inner Shield (Deep Cosmic Background) -->
+    <path
+        android:fillColor="#0D0E12"
+        android:pathData="M 54,24 L 72,32.2 L 72,56 C 72,70.8 63.8,81.4 54,85.4 C 44.2,81.4 36,70.8 36,56 L 36,32.2 L 54,24 Z" />
+
+    <!-- Center Thunderbolt/MEV Flash symbol (Emerald Green) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 56,34 L 44,52 L 53,52 L 48,72 L 64,48 L 54,48 Z" />
+
+</vector>
