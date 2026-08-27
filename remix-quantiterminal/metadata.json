@@ -1,0 +1,8 @@
+{
+  "name": "CloudTerm VM",
+  "description": "Cloud-hosted terminal virtual machine with auto-saving working directory, persistent environment variables via Firebase, Windows Terminal remote bridge, and Gemini AI DevOps copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
