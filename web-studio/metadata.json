@@ -1,0 +1,8 @@
+{
+  "name": "Web Studio MEV",
+  "description": "Smart Contract lifecycle manager, MEV discovery tracker, and Web3 multi-chain command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
